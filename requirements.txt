@@ -1,0 +1,6 @@
+flask
+requests
+pyjwt
+passlib
+werkzeug
+gunicorn
